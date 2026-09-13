@@ -1,10 +1,19 @@
 ---
 name: Content suggestion
-about: additional resources proposals
-title: ''
-labels: ''
-assignees: ''
-
+about: Suggest a resource for the course website
+title: "[Suggestion] "
+labels: suggestion
 ---
 
-please, use this repository to suggest additional resources through the dedicated form on the course website.
+### Resource title
+
+### Link
+
+### Type of resource
+Image, video, news item, application, or other resource.
+
+### Related course topic
+
+### Brief description
+
+### Why would this resource be useful?
