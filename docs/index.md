@@ -2,7 +2,7 @@ Companion website for the Materials Science and Engineering course.
 
 ## Contents
 
-- [Download the booklet](docs/booklet.pdf)
+- [Download the booklet](booklet.pdf)
 - [Additional resources](resources.md)
 - [Videos](videos.md)
 - [News](news.md)
