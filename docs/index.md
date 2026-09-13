@@ -5,7 +5,8 @@ Companion website for the Materials Science and Engineering course.
 - [Download the booklet](booklet.pdf)
 - [Additional resources](resources.md)
 - [Videos](videos.md)
-- [News and applications](news.md)
+- [News](news.md)
+- [Software and Interactive Tools](software.md)
 - [Suggest a resource](https://github.com/sten8/MSE-booklet/issues/new?template=content-suggestion.md)
 
 ## About the course
